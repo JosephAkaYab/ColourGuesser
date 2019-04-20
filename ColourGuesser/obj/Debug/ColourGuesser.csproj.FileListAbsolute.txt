@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ColourGuesser\ColourGuesser\bin\Debug\ColourGuesser.exe.config
+C:\Users\User\source\repos\ColourGuesser\ColourGuesser\bin\Debug\ColourGuesser.exe
+C:\Users\User\source\repos\ColourGuesser\ColourGuesser\bin\Debug\ColourGuesser.pdb
+C:\Users\User\source\repos\ColourGuesser\ColourGuesser\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\ColourGuesser\ColourGuesser\obj\Debug\App.g.cs
+C:\Users\User\source\repos\ColourGuesser\ColourGuesser\obj\Debug\ColourGuesser_MarkupCompile.cache
+C:\Users\User\source\repos\ColourGuesser\ColourGuesser\obj\Debug\ColourGuesser_MarkupCompile.lref
+C:\Users\User\source\repos\ColourGuesser\ColourGuesser\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\ColourGuesser\ColourGuesser\obj\Debug\ColourGuesser.g.resources
+C:\Users\User\source\repos\ColourGuesser\ColourGuesser\obj\Debug\ColourGuesser.Properties.Resources.resources
+C:\Users\User\source\repos\ColourGuesser\ColourGuesser\obj\Debug\ColourGuesser.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ColourGuesser\ColourGuesser\obj\Debug\ColourGuesser.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ColourGuesser\ColourGuesser\obj\Debug\ColourGuesser.exe
+C:\Users\User\source\repos\ColourGuesser\ColourGuesser\obj\Debug\ColourGuesser.pdb
+C:\Users\User\source\repos\ColourGuesser\ColourGuesser\obj\Debug\ColourGuesser.csprojAssemblyReference.cache
